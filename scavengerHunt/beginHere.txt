@@ -1,0 +1,2 @@
+
+The root directory is pathExercise.  Go to /fruits/apple/macintosh.txt
